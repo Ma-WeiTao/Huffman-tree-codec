@@ -1,4 +1,4 @@
-#include <stdio.h>
+sssinclude <stdio.h>
 #include <stdlib.h>
 #include <string.h>	 //需用到strcpy()
 #define MAX_SIZE 100 //文件名长度
